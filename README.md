@@ -38,11 +38,6 @@ Trained an MNIST neural network for 5 epochs and analyzed training and validatio
 - Jupyter Notebook
 - TensorBoard
 
-## Files
-
-– Assignment code and results
-- `README.md` – Project description
-- `logs/fit/` – TensorBoard training logs
 
 ## How to Run
 
